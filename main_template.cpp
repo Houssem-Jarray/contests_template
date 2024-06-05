@@ -5,6 +5,16 @@ using namespace std;
   cin.tie(0);                       \
   cout.tie(0);
 typedef long long ll;
+// Macros for quick use
+#define ll long long
+#define vi vector<int>
+#define vll vector<long long>
+#define pii pair<int, int>
+#define pll pair<long long, long long>
+#define pb push_back
+#define mp make_pair
+#define all(v) v.begin(), v.end()
+#define fast_io ios::sync_with_stdio(false); cin.tie(0); cout.tie(0);
 
 // Uncomment the #define below if problem contains multiple test cases
 // #define MULTIPLE_TESTS 1
